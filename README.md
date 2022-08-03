@@ -8,12 +8,11 @@
 </div>
 
 <h1>
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  Hellow world 🥰
 </h1>
 
 ### :woman_technologist: About Me :
-I am a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> based in the Netherland.
+🌴 I am a Front-end Developer 💻 based in the Netherland.
 
 🌻 I’m working as a Software Engineer and contributing to frontend for building web applications.
 
@@ -21,13 +20,13 @@ I am a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 🍵 In my free time, I solve problems on Codewars and read tech articles.
 
-📚 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Xiangyi-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/xiangyi-sun-1469441b8/)
+🍬 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Xiangyi-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/xiangyi-sun-1469441b8/)
 
 ---
 ### 🏖️ Languages and Tools :
 
 <div>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="20" height="20"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" title="TS **alt="TS" width="20" height="20"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/storybook/storybook-original.svg" title="Github" **alt="Github" width="20" height="20"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="20" height="20"/>&nbsp;
