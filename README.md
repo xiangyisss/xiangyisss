@@ -12,7 +12,7 @@
 </h1>
 
 ### :woman_technologist: About Me :
-🌴 I am a Front-end Developer 💻 based in the Netherland.
+🌴 I am a Front-end developer based in the Netherland.
 
 🌻 I’m working as a Software Engineer and contributing to frontend for building web applications.
 
