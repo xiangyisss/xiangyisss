@@ -11,6 +11,8 @@
   Hellow world 🥰
 </h1>
 
+
+
 ### :woman_technologist: About Me :
 🌴 I am a Front-end developer based in the Netherland.
 
@@ -21,6 +23,8 @@
 🍵 In my free time, I solve problems on Codewars and read tech articles.
 
 🍬 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Xiangyi-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/xiangyi-sun-1469441b8/)
+
+
 
 ---
 ### 🏖️ Languages and Tools :
