@@ -16,7 +16,7 @@
 ### :woman_technologist: About Me :
 🌴 I am a Front-end developer based in the Netherland.
 
-🌻 I’m working as a Software Engineer and contributing to frontend for building web applications.
+🌻 I’m working as a Front-end developer to building web applications.
 
 🍵 In my free time, I solve problems on Codewars and read tech articles.
 
