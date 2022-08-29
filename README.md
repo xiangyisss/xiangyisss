@@ -18,11 +18,9 @@
 
 🌻 I’m working as a Software Engineer and contributing to frontend for building web applications.
 
-🌱 Exploring Technical Content Writing.
-
 🍵 In my free time, I solve problems on Codewars and read tech articles.
 
-🍬 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Xiangyi-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/xiangyi-sun-1469441b8/)
+🌱 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Xiangyi-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/xiangyi-sun-1469441b8/)
 
 
 
