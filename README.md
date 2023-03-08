@@ -8,7 +8,7 @@
 </div>
 
 <h1>
-  Hellow world 🥰
+  Hello world 🥰
 </h1>
 
 
